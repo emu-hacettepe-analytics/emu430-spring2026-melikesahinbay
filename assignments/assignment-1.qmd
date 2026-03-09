@@ -2,10 +2,12 @@
 title: "Assignment 1"
 ---
 
-```{}
+```         
 ```
 
 My first assignment has two parts.
+
+## 3.
 
 ## (a)
 
@@ -36,3 +38,38 @@ d\. Putting process optimization aside while the system is running and focusing 
 e\. Leaving behind basic skills such as SQL and Excel and analyzing the system by focusing only on complex data science tools.
 
 Answer: c, Understanding the working logic of the current system and improving the problems step by step rather than completely dismantling the structure.
+
+## 4.
+
+```{r}
+library(dslabs)
+data(polls_us_election_2016)
+head(polls_us_election_2016)
+```
+
+```{r}
+my_first <- "MELIKE" 
+my_birth_year <- 2003 
+print(paste("My first name is", my_first))
+print(paste("My birth year is", my_birth_year))
+```
+
+```{r}
+k <- as.integer((nchar(my_first) + my_birth_year) %% 15 + 8)
+print(paste("The k value is:", k))
+```
+
+```{r}
+k <- as.integer((nchar(my_first) + my_birth_year) %% 15 + 8)
+if (k %% 2 == 0) {
+  head(polls_us_election_2016, k)
+} else {
+  tail(polls_us_election_2016, k)}
+```
+
+```{r}
+print(paste("The Total Number of NA Values is:", sum(is.na(polls_us_election_2016))))
+```
+
+```{}
+```
