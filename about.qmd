@@ -5,26 +5,31 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, September 2021 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+1.  TÜBİTAK BİLGEM YTE, Digital Transformation and Strategy Development Department, Scholarship Holder (Part-time), September 2024-ongoing
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
+1.  Tübitak Bilgem YTE, Business Analysist Intern, June 2024- August 2024
 
 # Projects
 
+1.  Graduation Project at ASELSAN, November 2025 - ongoing
+2.  Teknofest, 2022-2023
+
 # Competencies
 
-R, Quarto, Git, Python
+Jira, Confluence, Excel
 
 # Hobbies
+
+Playing Piano 🎹
+
+# CV
+
+[Click here to download my CV (PDF)](cv_melike.pdf)
