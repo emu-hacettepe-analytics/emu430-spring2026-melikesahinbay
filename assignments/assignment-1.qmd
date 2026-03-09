@@ -2,14 +2,37 @@
 title: "Assignment 1"
 ---
 
-# Assignment 1
-
-```{r}
-1 + 1
+```{}
 ```
 
 My first assignment has two parts.
 
 ## (a)
 
+-   Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Cem Vardar & Erdi Dasdemir Summary and Findings:
+
+After watching this video, I understood much more clearly how closely my own field is intertwined with the world of data science. The part of Cem Vardar's talk that impacted me the most was his description of data science not as a magical profession, but as a “tool” we use to solve problems. Just like a carpenter uses a hammer, companies don't just need someone who “knows Python”; they need people who can use those tools to optimize processes and take a holistic approach to complex systems. As industrial engineering students, we are already trained to look at things with a “systems thinking” approach, so being able to ask the “why” question behind the code gives us a huge advantage in this field.
+
+Another important lesson I took away from the video was how I should approach problems in my professional life. I saw that trying to completely scrap an outdated but somehow functional logistics network or system and build a “perfect” structure from scratch usually ends in disappointment. Instead, understanding the existing system and making step-by-step improvements is much more successful. Furthermore, hearing that fundamental skills like SQL, Excel, correctly interpreting data, and effective communication constitute a large portion of the value created in the business world, rather than getting lost in highly complex AI algorithms, gave me a new perspective.
+
 ## (b)
+
+Questions:
+
+1.  According to the video, what is the fundamental reason why companies in the data science world need an industrial engineer rather than just someone who “knows Python,” and what metaphor is used to explain this situation?
+
+Answer: The fundamental reason is that industrial engineers approach events with “systems thinking” and a holistic approach beyond just writing code. What companies really need are not just people who know ‘how’ to write code, but problem solvers who can optimize complex processes by asking the “why” question behind the code. The text explains this situation using the “carpenter and hammer” metaphor, emphasizing that data science is merely a tool and that knowing how to use the hammer is not enough; one also needs the vision to build processes with that hammer.
+
+2.  According to the video, when encountering a complex system in business life that is outdated but still somehow functioning, which of the following is the most strategic path to follow in order to successfully create value?
+
+a\. Designing a completely autonomous new system that does not require human intervention, using the latest artificial intelligence algorithms.
+
+b\. Throwing the old system away completely and trying to build a “flawless” structure from scratch.
+
+c\. Understanding how the current system works and improving problems with an evolutionary approach rather than completely dismantling the structure.
+
+d\. Putting process optimization aside while the system is running and focusing only on reporting the data obtained.
+
+e\. Leaving behind basic skills such as SQL and Excel and analyzing the system by focusing only on complex data science tools.
+
+Answer: c, Understanding the working logic of the current system and improving the problems step by step rather than completely dismantling the structure.
