@@ -114,6 +114,8 @@ cat("The first 6 rows of the changed data set:\n")
 print(head(new_polls_data))
 ```
 
+-I used Artificial Intelligence to create a copy of the dataset in the code. Prompt: I want to create a copy of my original dataset in Rstudio without damaging it. How can I do this?
+
 ```{r}
 if (k %% 2 == 0) {
   cat("k value is (", k, ") even. new dataset's first 6", k, "rows:\n")
