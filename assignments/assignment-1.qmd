@@ -71,7 +71,7 @@ if (k %% 2 == 0) {
 
 ```
 
-```{r collapse=TRUE}
+```{r}
 
 total_na <- sum(is.na(polls_us_election_2016))
 cat("Total number of NA in dataset:\n")

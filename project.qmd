@@ -1,5 +1,5 @@
 ---
-title: "Our Course Project"
+title: "Melike's Analytics Lab"
 sidebar: false 
 ---
 
